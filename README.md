@@ -16,6 +16,7 @@ This is a collection of [Arduino](https://www.arduino.cc/) based projects that d
 - [IR Receiver](https://github.com/VladimirV99/Arduino-Projects/tree/master/IR_Receiver)
 - [Joystick](https://github.com/VladimirV99/Arduino-Projects/tree/master/Joystick)
 - [LCD](https://github.com/VladimirV99/Arduino-Projects/tree/master/LCD)
+- [PIR Motion Sensor](https://github.com/VladimirV99/Arduino-Projects/tree/master/PIR_Motion_Sensor)
 - [Remote Custom](https://github.com/VladimirV99/Arduino-Projects/tree/master/Remote_Custom)
 - [RGB LED](https://github.com/VladimirV99/Arduino-Projects/tree/master/RGB_LED)
 - [Servo Motor](https://github.com/VladimirV99/Arduino-Projects/tree/master/Servo_Motor)
@@ -25,7 +26,6 @@ This is a collection of [Arduino](https://www.arduino.cc/) based projects that d
 
 ## Planned Projects
 
-- PIR Motion Sensor (HC-SR501)
 - RFID
 - Segment Display
 
