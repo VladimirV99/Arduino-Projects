@@ -21,13 +21,14 @@ This is a collection of [Arduino](https://www.arduino.cc/) based projects that d
 - [RFID](https://github.com/VladimirV99/Arduino-Projects/tree/master/RFID)
 - [RGB LED](https://github.com/VladimirV99/Arduino-Projects/tree/master/RGB_LED)
 - [Servo Motor](https://github.com/VladimirV99/Arduino-Projects/tree/master/Servo_Motor)
+- [Seven-Segment Display](https://github.com/VladimirV99/Arduino-Projects/tree/master/Seven_Segment_Display)
 - [Sound Sensor](https://github.com/VladimirV99/Arduino-Projects/tree/master/Sound_Sensor)
 - [Stepper Motor](https://github.com/VladimirV99/Arduino-Projects/tree/master/Stepper_Motor)
 - [Ultrasonic Sensor](https://github.com/VladimirV99/Arduino-Projects/tree/master/Ultrasonic_Sensor)
 
 ## Planned Projects
 
-- Segment Display
+- Remote
 
 ## Basic Components
 
