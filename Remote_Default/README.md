@@ -1,8 +1,8 @@
-# Remote (Custom)
+# Remote (Default)
 
 ## Description
 
-Remote to keyboard shortcut mapper for an old TV remote.
+Remote to keyboard shortcut mapper for a car mp3 remote.
 
 ## Required Libraries
 

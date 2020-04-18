@@ -18,6 +18,7 @@ This is a collection of [Arduino](https://www.arduino.cc/) based projects that d
 - [LCD](https://github.com/VladimirV99/Arduino-Projects/tree/master/LCD)
 - [PIR Motion Sensor](https://github.com/VladimirV99/Arduino-Projects/tree/master/PIR_Motion_Sensor)
 - [Remote Custom](https://github.com/VladimirV99/Arduino-Projects/tree/master/Remote_Custom)
+- [Remote Default](https://github.com/VladimirV99/Arduino-Projects/tree/master/Remote_Default)
 - [RFID](https://github.com/VladimirV99/Arduino-Projects/tree/master/RFID)
 - [RGB LED](https://github.com/VladimirV99/Arduino-Projects/tree/master/RGB_LED)
 - [Servo Motor](https://github.com/VladimirV99/Arduino-Projects/tree/master/Servo_Motor)
@@ -28,7 +29,7 @@ This is a collection of [Arduino](https://www.arduino.cc/) based projects that d
 
 ## Planned Projects
 
-- Remote
+There are currently no planned projects
 
 ## Basic Components
 
